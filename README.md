@@ -4,9 +4,10 @@ Felicity on paper, but I go by FELI.
 
 I am an IT graduate who somehow ended up learning a bunch of programming languages, databases, and web technologies along the way.
 
-I am currently interested in pursuing a career in IT Support/ Technical Support, rather than becoming a full=time software developer.
+I am currently interested in pursuing a career in IT Support/ Technical Support, rather than becoming a full-time software developer.
 
 That said, I still enjoy building random things whenever an idea suddenly enters my little brain. Usually because I am bored.
+
 ---
 ## 🙋‍♀️ About Me
 • IT graduate - September 2026
