@@ -148,6 +148,12 @@ Making random things with code.
 Looking for a job related to culinary(This is not a sarcasm haha).
 
 ---
+## 🌐Contact with me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/felythejealous)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felytheplatypus)
+
+---
 
 <!--
 **felithejealous/felithejealous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
