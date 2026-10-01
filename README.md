@@ -63,6 +63,18 @@ I've encountered all of these.
 That does **NOT** mean I am proficient in all of them.HAHA
 
 ---
+## 🏳️Where I am Heading
+
+My current goal is to explore opportunities in:
+
+**IT Support • Technical Support • Help Desk • IT operations**
+
+I am interested in the practical side of IT, troubleshooting problems, helping users, working with systems, figuring out what's wrong, and keeping technology working properly.
+
+Coding is still something I wans to keep around because you never know when kowing a little Python, SQL, or scripting might come in handly.
+
+
+---
 ## ⚒️ TIMS-RPAY
 One of the biggest projects I worked on during college was TIMS-RPAY, our thesis system for Teo D' Mango.
 
