@@ -11,10 +11,15 @@ That said, I still enjoy building random things whenever an idea suddenly enters
 ---
 ## 🙋‍♀️ About Me
 • IT graduate - September 2026
+
 • Interested in IT Support / Technical Support
+
 • Former Backend Developer for our thesis project, TIMS-RPAY
+
 • Currently building random projects for fun.
+
 • Interested in troubleshooting, technology, and figuring out why things don't work.
+
 • Coding is more of a side skill for me than a career goal
 
 
