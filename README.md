@@ -145,7 +145,7 @@ Making random things with code.
 
 **Current status:**
 
-Looking for a job related to culinary.
+Looking for a job related to culinary(This is not a sarcasm haha).
 
 ---
 
