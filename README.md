@@ -22,7 +22,7 @@ That said, I still enjoy building random things whenever an idea suddenly enters
 
 • Coding is more of a side skill for me than a career goal
 
-
+---
 ## 🔎Things I have Encountered
 
 During my IT studies and projects, I've worked with or encountered:
@@ -63,7 +63,7 @@ I've encountered all of these.
 That does **NOT** mean I am proficient in all of them.HAHA
 
 ---
-## ⚒️ TIMS=RPAY
+## ⚒️ TIMS-RPAY
 One of the biggest projects I worked on during college was TIMS-RPAY, our thesis system for Teo D' Mango.
 
 I mainly worked on the **backend**, helping build and integrate the system's backend functionality.
@@ -116,6 +116,8 @@ Looking for a job related to culinary.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felithejealous&show_icons=true&theme=tokyonight)
 
 haha nothing to see here.
+
+---
 <!--
 **felithejealous/felithejealous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
