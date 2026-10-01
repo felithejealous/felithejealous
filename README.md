@@ -69,15 +69,25 @@ One of the biggest projects I worked on during college was TIMS-RPAY, our thesis
 I mainly worked on the **backend**, helping build and integrate the system's backend functionality.
 
 Some things I encountered included:
+
 • FastAPI
+
 • PostgreSQL
+
 • Authentication
+
 • TeoPay E-wallet
+
 • QR-based rewards
+
 • Inventory management
+
 • Order and Transactions
+
 • Admin and staff functionality
+
 • API Integration
+
 • Deployment and hosting
 
 ---
@@ -90,25 +100,39 @@ Sometimes it is completely useless.
 Sometimes it exists because I was bored.
 
 So expect combination of:
+
 • Random Experiments
+
 • Tiny games
+
 • Weird little tools
+
 • Random websites
+
 
 ---
 ## 🎉FUN FACTS
 • I make random projects because WHY NOT?
+
 • Sometimes I like coding.
+
 • Most of the time I hate coding.
+
 • I used to dream of becoming a white-hat hacker someday. Now I just laugh whenever I remember that.
+
 
 ---
 ## 📌Career vs. Hobby
 **Career:**
+
 IT SUPPORT/ TECHNICAL SUPPORT
+
 **Hobby:**
+
 Making random things with code.
+
 **Current status:**
+
 Looking for a job related to culinary.
 
 ---
