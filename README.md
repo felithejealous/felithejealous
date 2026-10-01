@@ -16,7 +16,8 @@ That said, I still enjoy building random things whenever an idea suddenly enters
 • Currently building random projects for fun.
 • Interested in troubleshooting, technology, and figuring out why things don't work.
 • Coding is more of a side skill for me than a career goal
----
+
+
 ## 🔎Things I have Encountered
 
 During my IT studies and projects, I've worked with or encountered:
