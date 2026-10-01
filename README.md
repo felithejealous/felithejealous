@@ -19,6 +19,7 @@ That said, I still enjoy building random things whenever an idea suddenly enters
 ## 🔎Things I have Encountered
 
 During my IT studies and projects, I've worked with or encountered:
+
 **Languages**
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black  
@@ -26,6 +27,7 @@ https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoC
 https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white  
 https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white  
 https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+
 **Web/Backend**
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white  
 https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white 
