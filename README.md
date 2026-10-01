@@ -120,10 +120,8 @@ So expect combination of:
 
 • I used to dream of becoming a white-hat hacker someday. Now I just laugh whenever I remember that.
 
-
 ---
-
-##📌Career vs. Hobby
+##🏓Career and Hobby
 
 **Career:**
 
