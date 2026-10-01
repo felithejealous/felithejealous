@@ -121,7 +121,7 @@ So expect combination of:
 • I used to dream of becoming a white-hat hacker someday. Now I just laugh whenever I remember that.
 
 ---
-##🏓Career and Hobby
+## 🏓Career and Hobby
 
 **Career:**
 
@@ -135,6 +135,7 @@ Making random things with code.
 
 Looking for a job related to culinary.
 
+---
 
 <!--
 **felithejealous/felithejealous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
