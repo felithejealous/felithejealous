@@ -122,7 +122,7 @@ So expect combination of:
 
 
 ---
-## 📌Career vs. Hobby
+##📌Career vs. Hobby
 **Career:**
 
 IT SUPPORT/ TECHNICAL SUPPORT
@@ -136,8 +136,13 @@ Making random things with code.
 Looking for a job related to culinary.
 
 ---
-##📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felithejealous&show_icons=true&theme=tokyonight)
+##📊GitHub Stats
+
+
+![Felicity's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=felithejealous&theme=github-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felithejealous&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felithejealous&layout=compact&theme=github_dark)
+
 
 haha nothing to see here.
 
