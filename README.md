@@ -91,7 +91,7 @@ Some things I encountered included:
 • Deployment and hosting
 
 ---
-## ❔WHAT I AM DOING HERE
+## 👻WHAT I AM DOING HERE
 This GitHub is basically my digital playground.
 
 I make random projects whenever I am in the mood.
